@@ -1,6 +1,5 @@
 # Lab 1
-### By: Jacob Huebner
-### ITMD 361 - Fall 2018 
+###### By: Jacob Huebner - ITMD 361 Fall 2018 
 One Paragraph of project description goes here
 
 ## Instructions
